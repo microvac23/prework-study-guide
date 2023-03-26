@@ -1,6 +1,6 @@
-# README
+# Study Guide Webpage
 
-## User Story
+## Description
 As a boot camp student,
 I want the prework notes to be structured on a webpage,
 So that I can easily find and read the information.
